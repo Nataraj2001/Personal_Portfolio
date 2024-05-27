@@ -3,8 +3,8 @@
 This repository contains the source code and files for my personal portfolio website. The website is built using HTML, CSS, and JavaScript.
 
 ## Description
+Welcome to my personal portfolio! This project is a showcase of my skills and experiences as a web developer, built using HTML, CSS, and JavaScript. The portfolio highlights my professional journey, including projects I have worked on, my technical skills, and my contact information. Designed with a responsive layout, it ensures an optimal viewing experience on a variety of devices. The use of modern web development techniques and best practices makes this portfolio not only visually appealing but also highly functional. Explore my work and feel free to reach out through the contact section!
 
-The personal portfolio website showcases my skills, projects, and experiences as a web developer. It serves as an online platform to highlight my work and provide information about my background and expertise.
 
 ## Features
 
@@ -28,13 +28,8 @@ To view the website locally or make modifications, follow these steps:
 2. Open the project folder in your preferred code editor.
 3. Open the `index.html` file in a web browser to view the website.
 
-## Contributing
-
-I appreciate any suggestions, feedback, or contributions to enhance this personal portfolio website. If you would like to contribute, please follow the guidelines in the `CONTRIBUTING.md` file.
-
-## Contact
-
-If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
-
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing.
-![Portfolio](https://github.com/Venkateeshh/Portfolio-Website/assets/117290841/d05942e3-6970-47eb-9757-482f11bb6044)
+
+![image](https://github.com/Nataraj2001/Personal_Portfolio/assets/106070514/174d7e7a-c007-4295-8e67-94c8b17fc1c2)
+
+
